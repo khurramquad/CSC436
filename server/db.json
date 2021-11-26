@@ -1,0 +1,56 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Do Laundry",
+      "description": "Wash, dry, and fold",
+      "author": "testuser",
+      "complete": false,
+      "completedOn": null
+    },
+    {
+      "title": "Hair Care",
+      "description": "Wash Hair",
+      "author": "testuser",
+      "dateCreated": 1637195114921,
+      "id": 6,
+      "complete": true,
+      "completedOn": 1637195177989
+    },
+    {
+      "title": "DEMO TODO",
+      "description": "DEMO TODO",
+      "author": "demouser",
+      "dateCreated": 1637195169180,
+      "id": 7,
+      "complete": true,
+      "completedOn": 1637405542522
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "author": "demouser",
+      "dateCreated": 1637405912377,
+      "id": 8,
+      "complete": false,
+      "completedOn": 1637525738076
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "testuser",
+      "password": "badpassword"
+    },
+    {
+      "username": "newuser",
+      "password": "test",
+      "id": 2
+    },
+    {
+      "username": "demouser",
+      "password": "demouser",
+      "id": 3
+    }
+  ]
+}
